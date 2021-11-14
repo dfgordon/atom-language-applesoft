@@ -1,0 +1,24 @@
+{
+  "name": "language-applesoft",
+  "version": "0.0.0",
+  "description": "Applesoft BASIC language support in Atom",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "https://atom.io/packages/language-applesoft",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfgordon/atom-language-applesoft.git"
+  },
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/dfgordon/atom-language-applesoft/issues"
+  },
+  "keywords": [
+    "tree-sitter"
+  ],
+  "dependencies": {
+    "tree-sitter-applesoft": "^1.0.1"
+  }
+}
