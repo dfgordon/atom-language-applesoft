@@ -19,6 +19,6 @@
     "tree-sitter"
   ],
   "dependencies": {
-    "tree-sitter-applesoft": "^1.0.1"
+    "tree-sitter-applesoft": "^1.0.2"
   }
 }
