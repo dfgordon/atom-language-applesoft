@@ -1,4 +1,4 @@
-name: 'Applesoft BASIC'
+name: 'applesoft'
 scopeName: 'applesoft'
 type: 'tree-sitter'
 parser: 'tree-sitter-applesoft'
