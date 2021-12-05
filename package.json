@@ -1,6 +1,6 @@
 {
   "name": "language-applesoft",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Applesoft BASIC language support in Atom",
   "engines": {
     "atom": "*",
